@@ -11,6 +11,7 @@ namespace HolaMundo1
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo!");
+            Console.ReadLine();
         }
     }
 }
